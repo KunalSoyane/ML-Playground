@@ -1,5 +1,7 @@
 # ML Playground — Algorithm Exploration Project
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KunalSoyane/ML-Playground/blob/main/ML_Playground.ipynb)
+
 5 ML algorithms explored across different domains, focused on preprocessing, evaluation, and result interpretation.
 
 | Algorithm | Task | Dataset |
@@ -13,5 +15,3 @@
 **Outputs:** confusion matrices, feature importance charts, elbow plots, PCA projections, cluster centroid heatmaps, recommendation heatmaps.
 
 **Stack:** Python, scikit-learn, pandas, NumPy, matplotlib, seaborn
-
-Open `ML_Playground.ipynb` in Colab or Jupyter and run all cells.
